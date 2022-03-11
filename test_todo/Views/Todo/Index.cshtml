@@ -1,0 +1,32 @@
+@model IEnumerable<Todo.Models.Todo>
+
+<h1 class="text-center fw-bold text-uppercase">Todo</h1>  @*/Todo de xem dotnet watch de chay web*@ 
+<button class="btn btn-success" type="button">
+    <a class="nav-link text-white fw-bold" asp-area="" asp-controller="Todo" asp-action="TodoForm">Todo Form</a>
+</button>
+<div class="table">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>Author</th>
+            <th>Title</th>
+            <th>Content</th>
+            <th>Time</th>
+            <th>isDone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Todo.Models.Todo item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Author</td>
+                <td>@item.Title</td>
+                <td>@item.Content</td>
+                <td>@item.Time</td>
+                <td>@item.isDone</td>
+
+            </tr>
+        }
+    </tbody>
+</div>

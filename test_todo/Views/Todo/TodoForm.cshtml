@@ -1,0 +1,30 @@
+@model Todo.Models.Todo
+
+<h1 class="text-center fw-bold text-uppercase">Todo Form</h1>
+<form asp-controller = "Todo" asp-action="TodoForm" method = "post"> @*neu Todo cung mot controller thi co the bo aspcontroller*@
+
+    <div class="mb-3 form-group">
+        <label class = "form-label" asp-for = "Author">Author</label>
+        <input class="form-control" asp-for = "Author" type="text" />
+        <span asp-validation-for="@Model.Author" class="text-danger"></span>
+    </div>
+    <div class ="mb-3 form-group">
+        <label class = "form-label" asp-for = "Title">Title</label>
+        <input class="form-control" asp-for = "Author" type="text" />
+    </div>
+    <div class ="mb-3 form-group">
+        <label class = "form-label" asp-for="Content">Content</label>
+        <input class="form-control" asp-for="Content" type="text" />
+    </div>
+    <div class ="mb-3 form-group">
+        <label class = "form-label" asp-for = "Time">Time</label>
+        <input asp-for= "Time" type="datetime-local" class="form-control" />
+    </div>
+    <div class ="mb-3 form-group" form-check>
+        <label class = "form-check-label" asp-for = "isDone">Done</label>
+        <input asp-for = "isDone" type="checkbox" class="form-check-input" />
+    </div>
+    <div>
+    <button class="btn btn-success" type="submit">Submit</button>
+    </div>
+</form>
