@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\NguyenTrongNgoc.csproj",
+  "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\NguyenTrongNgoc.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,113 +16298,113 @@
   "RootNamespace": "NguyenTrongNgoc",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Edit.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Edit.cshtml",
       "TargetPath": "Pages\\Category\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Edit.cshtml",
-      "TargetPath": "Pages\\Comments\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Details.cshtml",
-      "TargetPath": "Pages\\Comments\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Details.cshtml",
-      "TargetPath": "Pages\\Category\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Delete.cshtml",
-      "TargetPath": "Pages\\News\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Edit.cshtml",
-      "TargetPath": "Pages\\News\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Index.cshtml",
-      "TargetPath": "Pages\\Comments\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Delete.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Delete.cshtml",
       "TargetPath": "Pages\\Category\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Edit.cshtml",
+      "TargetPath": "Pages\\News\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Index.cshtml",
-      "TargetPath": "Pages\\Category\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Create.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Create.cshtml",
       "TargetPath": "Pages\\News\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Delete.cshtml",
-      "TargetPath": "Pages\\Comments\\Delete.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Details.cshtml",
+      "TargetPath": "Pages\\Category\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Index.cshtml",
-      "TargetPath": "Pages\\News\\Index.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Index.cshtml",
+      "TargetPath": "Pages\\Comments\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Create.cshtml",
+      "TargetPath": "Pages\\Category\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Create.cshtml",
-      "TargetPath": "Pages\\Comments\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Details.cshtml",
-      "TargetPath": "Pages\\News\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Error.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\Downloads\\New folder\\demo-github\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Create.cshtml",
-      "TargetPath": "Pages\\Category\\Create.cshtml",
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Index.cshtml",
+      "TargetPath": "Pages\\News\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Details.cshtml",
+      "TargetPath": "Pages\\Comments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Edit.cshtml",
+      "TargetPath": "Pages\\Comments\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Details.cshtml",
+      "TargetPath": "Pages\\News\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Category\\Index.cshtml",
+      "TargetPath": "Pages\\Category\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\News\\Delete.cshtml",
+      "TargetPath": "Pages\\News\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Create.cshtml",
+      "TargetPath": "Pages\\Comments\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\P46_119001453_NguyenTrongNgoc\\NguyenTrongNgoc\\Pages\\Comments\\Delete.cshtml",
+      "TargetPath": "Pages\\Comments\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
